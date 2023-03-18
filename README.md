@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khoi (KhoiDOO)</h1>
-<h3 align="center">An AI freelance researcher from Vietnam</h3> 
+<h3 align="center">An AI researcher from Vietnam</h3> 
 
 - 🔭 I'm currently a student (from 2020 Fall) in [School of Electrical and Electronics](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://hust.edu.vn/)
 - ✨ I'm interested in Machine Learning, Mathematics and Data infrastructure.
