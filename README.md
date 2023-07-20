@@ -12,10 +12,10 @@
 <a href="https://www.facebook.com/HoangKhoiDoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kkkk" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Statistics:</h3>
+<!-- <h3 align="left">Statistics:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhoiDOO&margin-w=5&row=1&column=7" alt="khoidoo" /></a> </p>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=KhoiDOO&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoiDOO&layout=compact" />
-</div>
+</div> -->
